@@ -7,7 +7,7 @@ import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
 // Replace with your computer's local IP (shown when you run api.py)
-const API_BASE = 'http://10.246.40.235:5000/api';
+const API_BASE = 'https://large-walls-sin.loca.lt/api';
 
 // ─── COLORS (Stitch Design System) ───────────────────────────────────────────
 const C = {
